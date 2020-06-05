@@ -1,0 +1,563 @@
+!SESSION 2020-04-03 13:18:11.345 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.5 - pxa6480sr6fp5-20200111_02(SR6 FP5)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20200108_436782 (JIT enabled, AOT enabled)
+OpenJ9   - 7d1059c
+OMR      - d059105
+IBM      - c8aee39
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=c.u_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data . -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+
+!ENTRY org.eclipse.equinox.registry 2 0 2020-04-03 13:18:34.234
+!MESSAGE The extensions and extension-points from the bundle "org.eclipse.emf.commonj.sdo" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-04-03 13:18:37.444
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2020-04-03 13:18:41.076
+!MESSAGE 
+!SESSION 2020-04-03 13:19:01.183 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.5 - pxa6480sr6fp5-20200111_02(SR6 FP5)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20200108_436782 (JIT enabled, AOT enabled)
+OpenJ9   - 7d1059c
+OMR      - d059105
+IBM      - c8aee39
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=c.u_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data . -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-04-03 13:19:02.951
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-04-03 13:19:03.249
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2020-04-03 13:19:07.103
+!MESSAGE 
+!SESSION 2020-04-03 13:19:59.920 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.5 - pxa6480sr6fp5-20200111_02(SR6 FP5)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20200108_436782 (JIT enabled, AOT enabled)
+OpenJ9   - 7d1059c
+OMR      - d059105
+IBM      - c8aee39
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=c.u_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data . -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+
+!ENTRY org.eclipse.equinox.registry 2 0 2020-04-03 13:20:22.026
+!MESSAGE The extensions and extension-points from the bundle "org.eclipse.emf.commonj.sdo" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-04-03 13:20:25.016
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-04-03 13:20:25.294
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2020-04-03 13:20:29.996
+!MESSAGE 
+!SESSION 2020-04-03 13:20:47.023 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.5 - pxa6480sr6fp5-20200111_02(SR6 FP5)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20200108_436782 (JIT enabled, AOT enabled)
+OpenJ9   - 7d1059c
+OMR      - d059105
+IBM      - c8aee39
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=c.u_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data . -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-04-03 13:20:48.858
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-04-03 13:20:49.179
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2020-04-03 13:20:51.801
+!MESSAGE 
+!SESSION 2020-04-03 13:24:01.695 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.5 - pxa6480sr6fp5-20200111_02(SR6 FP5)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20200108_436782 (JIT enabled, AOT enabled)
+OpenJ9   - 7d1059c
+OMR      - d059105
+IBM      - c8aee39
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=c.u_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data . -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+
+!ENTRY org.eclipse.equinox.registry 2 0 2020-04-03 13:24:24.646
+!MESSAGE The extensions and extension-points from the bundle "org.eclipse.emf.commonj.sdo" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-04-03 13:24:27.629
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-04-03 13:24:27.907
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2020-04-03 13:24:31.735
+!MESSAGE 
+!SESSION 2020-04-03 13:27:18.282 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.5 - pxa6480sr6fp5-20200111_02(SR6 FP5)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20200108_436782 (JIT enabled, AOT enabled)
+OpenJ9   - 7d1059c
+OMR      - d059105
+IBM      - c8aee39
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=c.u_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data . -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+
+!ENTRY org.eclipse.equinox.registry 2 0 2020-04-03 13:27:40.360
+!MESSAGE The extensions and extension-points from the bundle "org.eclipse.emf.commonj.sdo" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-04-03 13:27:43.390
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-04-03 13:27:43.653
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2020-04-03 13:27:47.093
+!MESSAGE 
+!SESSION 2020-04-03 13:39:47.056 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.5 - pxa6480sr6fp5-20200111_02(SR6 FP5)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20200108_436782 (JIT enabled, AOT enabled)
+OpenJ9   - 7d1059c
+OMR      - d059105
+IBM      - c8aee39
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=c.u_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data . -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+
+!ENTRY org.eclipse.equinox.registry 2 0 2020-04-03 13:40:09.851
+!MESSAGE The extensions and extension-points from the bundle "org.eclipse.emf.commonj.sdo" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-04-03 13:40:12.841
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-04-03 13:40:13.097
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2020-04-03 13:40:15.710
+!MESSAGE 
+!SESSION 2020-04-03 15:27:01.177 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.5 - pxa6480sr6fp5-20200111_02(SR6 FP5)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20200108_436782 (JIT enabled, AOT enabled)
+OpenJ9   - 7d1059c
+OMR      - d059105
+IBM      - c8aee39
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=c.u_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data . -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+
+!ENTRY org.eclipse.equinox.registry 2 0 2020-04-03 15:27:24.592
+!MESSAGE The extensions and extension-points from the bundle "org.eclipse.emf.commonj.sdo" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-04-03 15:27:27.667
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-04-03 15:27:27.931
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2020-04-03 15:27:32.373
+!MESSAGE 
+!SESSION 2020-04-03 15:31:41.055 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.5 - pxa6480sr6fp5-20200111_02(SR6 FP5)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20200108_436782 (JIT enabled, AOT enabled)
+OpenJ9   - 7d1059c
+OMR      - d059105
+IBM      - c8aee39
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=c.u_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data . -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+
+!ENTRY org.eclipse.equinox.registry 2 0 2020-04-03 15:32:04.225
+!MESSAGE The extensions and extension-points from the bundle "org.eclipse.emf.commonj.sdo" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-04-03 15:32:07.210
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-04-03 15:32:07.472
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2020-04-03 15:32:12.250
+!MESSAGE 
+!SESSION 2020-04-03 15:55:22.558 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.5 - pxa6480sr6fp5-20200111_02(SR6 FP5)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20200108_436782 (JIT enabled, AOT enabled)
+OpenJ9   - 7d1059c
+OMR      - d059105
+IBM      - c8aee39
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=c.u_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data . -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+
+!ENTRY org.eclipse.equinox.registry 2 0 2020-04-03 15:55:44.753
+!MESSAGE The extensions and extension-points from the bundle "org.eclipse.emf.commonj.sdo" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-04-03 15:55:47.772
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-04-03 15:55:48.049
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2020-04-03 15:55:52.318
+!MESSAGE 
+!SESSION 2020-04-03 16:16:39.598 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.5 - pxa6480sr6fp5-20200111_02(SR6 FP5)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20200108_436782 (JIT enabled, AOT enabled)
+OpenJ9   - 7d1059c
+OMR      - d059105
+IBM      - c8aee39
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=c.u_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data . -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+
+!ENTRY org.eclipse.equinox.registry 2 0 2020-04-03 16:17:02.223
+!MESSAGE The extensions and extension-points from the bundle "org.eclipse.emf.commonj.sdo" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-04-03 16:17:05.261
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-04-03 16:17:05.521
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2020-04-03 16:17:08.086
+!MESSAGE 
+!SESSION 2020-04-03 17:39:53.237 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.5 - pxa6480sr6fp5-20200111_02(SR6 FP5)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20200108_436782 (JIT enabled, AOT enabled)
+OpenJ9   - 7d1059c
+OMR      - d059105
+IBM      - c8aee39
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=c.u_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data . -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+
+!ENTRY org.eclipse.equinox.registry 2 0 2020-04-03 17:40:15.490
+!MESSAGE The extensions and extension-points from the bundle "org.eclipse.emf.commonj.sdo" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-04-03 17:40:18.515
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-04-03 17:40:18.787
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2020-04-03 17:40:23.417
+!MESSAGE 
+!SESSION 2020-04-04 23:35:11.578 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.5 - pxa6480sr6fp5-20200111_02(SR6 FP5)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20200108_436782 (JIT enabled, AOT enabled)
+OpenJ9   - 7d1059c
+OMR      - d059105
+IBM      - c8aee39
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=c.u_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data . -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+
+!ENTRY org.eclipse.equinox.registry 2 0 2020-04-04 23:35:34.209
+!MESSAGE The extensions and extension-points from the bundle "org.eclipse.emf.commonj.sdo" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-04-04 23:35:37.295
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-04-04 23:35:37.552
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2020-04-04 23:35:41.346
+!MESSAGE 
+!SESSION 2020-04-05 01:54:15.137 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.5 - pxa6480sr6fp5-20200111_02(SR6 FP5)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20200108_436782 (JIT enabled, AOT enabled)
+OpenJ9   - 7d1059c
+OMR      - d059105
+IBM      - c8aee39
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=c.u_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data . -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+
+!ENTRY org.eclipse.equinox.registry 2 0 2020-04-05 01:54:37.934
+!MESSAGE The extensions and extension-points from the bundle "org.eclipse.emf.commonj.sdo" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-04-05 01:54:40.929
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-04-05 01:54:41.202
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2020-04-05 01:54:44.886
+!MESSAGE 
+!SESSION 2020-04-05 02:53:28.041 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.5 - pxa6480sr6fp5-20200111_02(SR6 FP5)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20200108_436782 (JIT enabled, AOT enabled)
+OpenJ9   - 7d1059c
+OMR      - d059105
+IBM      - c8aee39
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=c.u_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data . -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+
+!ENTRY org.eclipse.equinox.registry 2 0 2020-04-05 02:53:50.861
+!MESSAGE The extensions and extension-points from the bundle "org.eclipse.emf.commonj.sdo" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-04-05 02:53:53.834
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-04-05 02:53:54.089
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2020-04-05 02:53:58.804
+!MESSAGE 
+!SESSION 2020-04-05 02:59:28.445 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.5 - pxa6480sr6fp5-20200111_02(SR6 FP5)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20200108_436782 (JIT enabled, AOT enabled)
+OpenJ9   - 7d1059c
+OMR      - d059105
+IBM      - c8aee39
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=c.u_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data . -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+
+!ENTRY org.eclipse.equinox.registry 2 0 2020-04-05 02:59:50.811
+!MESSAGE The extensions and extension-points from the bundle "org.eclipse.emf.commonj.sdo" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-04-05 02:59:53.847
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-04-05 02:59:54.121
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2020-04-05 02:59:57.827
+!MESSAGE 
+!SESSION 2020-04-05 13:35:35.276 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.5 - pxa6480sr6fp5-20200111_02(SR6 FP5)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20200108_436782 (JIT enabled, AOT enabled)
+OpenJ9   - 7d1059c
+OMR      - d059105
+IBM      - c8aee39
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=c.u_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data . -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+
+!ENTRY org.eclipse.equinox.registry 2 0 2020-04-05 13:35:57.679
+!MESSAGE The extensions and extension-points from the bundle "org.eclipse.emf.commonj.sdo" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-04-05 13:36:00.695
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-04-05 13:36:01.011
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2020-04-05 13:36:03.567
+!MESSAGE 
+!SESSION 2020-04-06 12:17:02.988 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.5 - pxa6480sr6fp5-20200111_02(SR6 FP5)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20200108_436782 (JIT enabled, AOT enabled)
+OpenJ9   - 7d1059c
+OMR      - d059105
+IBM      - c8aee39
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=c.u_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data . -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+
+!ENTRY org.eclipse.equinox.registry 2 0 2020-04-06 12:17:26.262
+!MESSAGE The extensions and extension-points from the bundle "org.eclipse.emf.commonj.sdo" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-04-06 12:17:29.280
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-04-06 12:17:29.549
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2020-04-06 12:17:33.235
+!MESSAGE 
+!SESSION 2020-04-08 16:35:20.893 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.5 - pxa6480sr6fp5-20200111_02(SR6 FP5)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20200108_436782 (JIT enabled, AOT enabled)
+OpenJ9   - 7d1059c
+OMR      - d059105
+IBM      - c8aee39
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=c.u_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data . -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+
+!ENTRY org.eclipse.equinox.registry 2 0 2020-04-08 16:35:42.960
+!MESSAGE The extensions and extension-points from the bundle "org.eclipse.emf.commonj.sdo" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-04-08 16:35:45.986
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-04-08 16:35:46.253
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2020-04-08 16:35:50.757
+!MESSAGE 
+!SESSION 2020-04-08 16:54:52.187 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.5 - pxa6480sr6fp5-20200111_02(SR6 FP5)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20200108_436782 (JIT enabled, AOT enabled)
+OpenJ9   - 7d1059c
+OMR      - d059105
+IBM      - c8aee39
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=c.u_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data . -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+
+!ENTRY org.eclipse.equinox.registry 2 0 2020-04-08 16:55:14.150
+!MESSAGE The extensions and extension-points from the bundle "org.eclipse.emf.commonj.sdo" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-04-08 16:55:17.157
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-04-08 16:55:17.422
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2020-04-08 16:55:22.184
+!MESSAGE 
+!SESSION 2020-04-10 13:24:43.556 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.5 - pxa6480sr6fp5-20200111_02(SR6 FP5)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20200108_436782 (JIT enabled, AOT enabled)
+OpenJ9   - 7d1059c
+OMR      - d059105
+IBM      - c8aee39
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=c.u_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data . -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+
+!ENTRY org.eclipse.equinox.registry 2 0 2020-04-10 13:25:05.784
+!MESSAGE The extensions and extension-points from the bundle "org.eclipse.emf.commonj.sdo" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-04-10 13:25:08.840
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-04-10 13:25:09.135
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2020-04-10 13:25:12.939
+!MESSAGE 
+!SESSION 2020-04-10 13:44:35.476 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.5 - pxa6480sr6fp5-20200111_02(SR6 FP5)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20200108_436782 (JIT enabled, AOT enabled)
+OpenJ9   - 7d1059c
+OMR      - d059105
+IBM      - c8aee39
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=c.u_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data . -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+
+!ENTRY org.eclipse.equinox.registry 2 0 2020-04-10 13:44:58.267
+!MESSAGE The extensions and extension-points from the bundle "org.eclipse.emf.commonj.sdo" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-04-10 13:45:01.311
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-04-10 13:45:01.590
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2020-04-10 13:45:06.168
+!MESSAGE 
+!SESSION 2020-05-29 15:06:34.606 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.5 - pxa6480sr6fp5-20200111_02(SR6 FP5)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20200108_436782 (JIT enabled, AOT enabled)
+OpenJ9   - 7d1059c
+OMR      - d059105
+IBM      - c8aee39
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=c.u_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data . -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+
+!ENTRY org.eclipse.equinox.registry 2 0 2020-05-29 15:07:00.148
+!MESSAGE The extensions and extension-points from the bundle "org.eclipse.emf.commonj.sdo" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-05-29 15:07:03.662
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-05-29 15:07:03.987
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2020-05-29 15:07:07.166
+!MESSAGE 
+!SESSION 2020-05-29 15:39:04.180 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.5 - pxa6480sr6fp5-20200111_02(SR6 FP5)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20200108_436782 (JIT enabled, AOT enabled)
+OpenJ9   - 7d1059c
+OMR      - d059105
+IBM      - c8aee39
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=c.u_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data . -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+
+!ENTRY org.eclipse.equinox.registry 2 0 2020-05-29 15:39:29.270
+!MESSAGE The extensions and extension-points from the bundle "org.eclipse.emf.commonj.sdo" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-05-29 15:39:32.617
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-05-29 15:39:32.938
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2020-05-29 15:39:37.220
+!MESSAGE 
+!SESSION 2020-05-29 18:37:54.495 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.5 - pxa6480sr6fp5-20200111_02(SR6 FP5)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20200108_436782 (JIT enabled, AOT enabled)
+OpenJ9   - 7d1059c
+OMR      - d059105
+IBM      - c8aee39
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=c.u_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data . -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+
+!ENTRY org.eclipse.equinox.registry 2 0 2020-05-29 18:38:19.741
+!MESSAGE The extensions and extension-points from the bundle "org.eclipse.emf.commonj.sdo" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-05-29 18:38:23.179
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-05-29 18:38:23.498
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2020-05-29 18:38:26.420
+!MESSAGE 
+!SESSION 2020-05-29 18:45:22.730 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.5 - pxa6480sr6fp5-20200111_02(SR6 FP5)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20200108_436782 (JIT enabled, AOT enabled)
+OpenJ9   - 7d1059c
+OMR      - d059105
+IBM      - c8aee39
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=c.u_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data . -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+
+!ENTRY org.eclipse.equinox.registry 2 0 2020-05-29 18:45:48.216
+!MESSAGE The extensions and extension-points from the bundle "org.eclipse.emf.commonj.sdo" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-05-29 18:45:51.622
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-05-29 18:45:51.940
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2020-05-29 18:45:56.444
+!MESSAGE 

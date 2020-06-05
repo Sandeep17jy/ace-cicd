@@ -1,0 +1,33 @@
+apiVersion: tekton.dev/v1alpha1
+kind: Task
+metadata:
+  name: generate-bar
+spec:
+  inputs:
+    params:
+    - name: project
+      description: Specify the name of the project being built.
+      default: cp4iivt
+  
+    resources:
+    - name: source
+      type: git
+      
+  steps:
+  - name: compile
+    image: docker.io/rsundara/ace-build
+    workingdir: /workspace/source
+    env:
+      - name: PROJECT
+        value: $(inputs.params.project) 
+    
+    command: ["/bin/sh"]
+    args:
+      - -c
+      - |
+        set -eu;
+        echo Project : $PROJECT;        
+        echo "Running compile.sh";
+        sh ./utils/compile.sh
+        echo "Running checkin.sh";
+        sh ./utils/checkin.sh

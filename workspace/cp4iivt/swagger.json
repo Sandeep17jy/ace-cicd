@@ -1,0 +1,36 @@
+{
+  "swagger" : "2.0",
+  "info" : {
+    "title" : "cp4iivt",
+    "version" : "1.0.0",
+    "description" : "cp4iivt"
+  },
+  "paths" : {
+    "/hello" : {
+      "get" : {
+        "operationId" : "getHello",
+        "responses" : {
+          "200" : {
+            "description" : "The operation was successful.",
+            "schema" : {
+              "$ref" : "#/definitions/verificationTest"
+            }
+          }
+        },
+        "produces" : [ "application/json" ],
+        "description" : "Retrieve hello"
+      }
+    }
+  },
+  "basePath" : "/cp4iivt/v1",
+  "definitions" : {
+    "verificationTest" : {
+      "type" : "object",
+      "properties" : {
+        "greetings" : {
+          "type" : "string"
+        }
+      }
+    }
+  }
+}
