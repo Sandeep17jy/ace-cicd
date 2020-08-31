@@ -725,3 +725,25 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product c
 
 !ENTRY com.ibm.etools.mft.uri 0 0 2020-08-16 21:26:07.263
 !MESSAGE 
+!SESSION 2020-08-31 14:19:31.805 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.5 - pxa6480sr6fp5-20200111_02(SR6 FP5)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20200108_436782 (JIT enabled, AOT enabled)
+OpenJ9   - 7d1059c
+OMR      - d059105
+IBM      - c8aee39
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=c.u_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data . -b ./cp4iivt/gen/cp4iivt.bar -a cp4iivt
+
+!ENTRY org.eclipse.equinox.registry 2 0 2020-08-31 14:20:03.766
+!MESSAGE The extensions and extension-points from the bundle "org.eclipse.emf.commonj.sdo" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-08-31 14:20:07.826
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-08-31 14:20:08.294
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2020-08-31 14:20:13.294
+!MESSAGE 
